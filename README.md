@@ -1,4 +1,4 @@
-Phalcon Framework with multi module MVC!
+Phalcon Framework multi module MVC!
 ===
 Use Tracy Debugger and multi module with Backend and Frontend.
 
@@ -31,4 +31,6 @@ After we must install composer package:
 <blockquote>
 composer install
 </blockquote>
+
+And run server!
 
